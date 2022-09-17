@@ -3,8 +3,8 @@ title: "A comparison of flame front extraction algorithms in OH-PLIF images of t
 collection: talks
 type: "Talk"
 permalink: /talks/talk-1		
-venue: "University of Cambridge, Department of Engineering"
-date: 2012-03-01
+venue: "Low Carbon Combustion Meeting"
+date: 2020-04-06
 location: "Cambridge, United Kingdom"
 ---
 
