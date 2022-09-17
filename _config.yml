@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Oussama Chaib"
 title_separator          : "-"
-name                     : &name "Oussama"
+name                     : &name "Oussama Chaib"
 description              : &description "PhD student in turbulent combustion"
 url                      : https://oussamachaib.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/ouchaib/"
+  linkedin         : "ouchaib"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
