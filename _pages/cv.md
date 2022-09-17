@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD in Engineering, University Of Cambridge, 2025 (expected)
+* PhD in Engineering, University of Cambridge, 2025 (expected)
 * MSc in Aerospace Engineering, CentraleSupélec, 2020
 * BSc in Engineering, Al Akhawayn University in Ifrane, 2018
 
