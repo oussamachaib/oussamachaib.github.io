@@ -11,37 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Engineering, University Of Cambridge, 2025 (expected)
+* MSc in Aerospace Engineering, CentraleSupélec, 2020
+* BSc in Engineering, Al Akhawayn University in Ifrane, 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* R&D Engineer, Flame retardants
+  * Prsymian Group, Greater Paris Area, France
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* R&D Intern, Flame stabilisation
+  * Air Liquide, Innovation Campus Paris
+  * Supervisors: Dr. Paul Jourdaine and Dr. Bernard Labégorre.
+
+* Research assistant, Experimental combustion
+  * EM2C Laboratory, CentraleSupélec/CNRS
+  * Supervisor: Dr. Laurent Zimmer
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Experiments: Spectroscopy (absorption), Flow visualisation (Schlieren and shadowgraph techniques)
+* Data processing: Signal and image processing, Fourier analysis, Proper orthogonal decomposition
+* CAD and 3D printing: Burner components, Swirler design
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
