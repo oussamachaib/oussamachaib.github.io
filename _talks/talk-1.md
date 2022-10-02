@@ -3,9 +3,9 @@ title: "A comparison of flame front extraction algorithms in OH-PLIF images of t
 collection: talks
 type: "Talk"
 permalink: /talks/talk-1		
-venue: "Low Carbon Combustion Meeting"
+venue: "2nd Low-Carbon Combustion Meeting"
 date: 2022-04-06
-location: "Cambridge, United Kingdom"
+location: "Cambridge University Engineering Department, United Kingdom"
 ---
 
 Hydrogen has harnessed particular attention in the last decade, amid stringent environmental policies and growing sustainability concerns, as a flexible energy carrier of the future. Hydrogen/natural gas blends can be burnt with air in retrofitted combustors which can play a role in reducing carbon emissions while allowing stable operation over a wider range of lean conditions (Bell and Gupta 1997; Schefer 2003). Nevertheless, the addition of hydrogen, a non-unity Lewis number gas, to hydrocarbon fuels can, even at low quantities, alter flame characteristics and affect stability, combustion dynamics, and pollutant emissions (Schefer 2003; Halter et al. 2007). In the presence of turbulence, these flames can experience intense wrinkling leading to the formation of multiscale structures such as islands and pockets. Key geometric information about such flames (local curvature, flame surface density) can be obtained by locating the position of the flame front in planar laser-induced fluorescence or Mie scattering images. The complex flame shapes, multiscale structures, in addition to low signal-to-noise ratios inherent to high-speed diagnostics, pose a certain number of challenges for current contour detectors, which motivates the need for accurate flame front extraction algorithms. 
